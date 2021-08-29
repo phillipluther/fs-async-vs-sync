@@ -1,0 +1,23 @@
+{
+  "name": "fs-async-vs-sync",
+  "version": "0.1.0",
+  "description": "Speed test experiments with FS!",
+  "private": true,
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "run": "node the-test.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phillipluther/fs-async-vs-sync.git"
+  },
+  "keywords": [],
+  "author": "Phillip Luther <dev@phillipluther.com> (https://phillipluther.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phillipluther/fs-async-vs-sync/issues"
+  },
+  "homepage": "https://github.com/phillipluther/fs-async-vs-sync#readme"
+}
