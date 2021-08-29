@@ -13,5 +13,3 @@ export default function readFilesSync() {
     contentBlob.push(fileContents);
   }
 }
-
-readFilesSync();

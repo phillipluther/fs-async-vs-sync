@@ -6,8 +6,7 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "run": "node the-test.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node the-test.js"
   },
   "repository": {
     "type": "git",
